@@ -54,7 +54,7 @@ const Hero = () => {
 
               {/* Tombol CV */}
               <a 
-                href="https://drive.google.com/file/d/1_SNfk0d8GP4pQl3I3MpFsuiSCK-LDmfp/view?usp=sharing"
+                href="https://drive.google.com/file/d/1oVnu3Py5C2ph3PnxhKTp6ghJWvy2zwvl/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 md:px-10 py-3 md:py-5 border border-white/20 hover:border-white/60 text-white/80 hover:text-white text-xs md:text-sm tracking-[0.2em] font-medium transition-all duration-500 flex items-center gap-2 group/cv"
